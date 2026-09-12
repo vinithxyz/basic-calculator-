@@ -62,9 +62,9 @@ button:active{
 }
 
 .operator-btn:hover{
-    background-color: rgb(227, 176, 81);
+    background-color: rgb(240, 182, 75);
 }
 
 .operator-btn:active{
-    background-color: rgb(179, 135, 55);
+    background-color: rgb(187, 145, 68);
 }
